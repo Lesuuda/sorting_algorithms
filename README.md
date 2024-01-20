@@ -1,6 +1,3 @@
-Certainly! Here's the updated README with the Contributors section:
-
-```markdown
 # 0x1B. C - Sorting Algorithms & Big O
 
 ## Overview
@@ -13,9 +10,8 @@ This repository contains a group project focused on implementing various sorting
 2. [Sorting Algorithms](#sorting-algorithms)
 3. [Implementation](#implementation)
 4. [Usage](#usage)
-5. [Contributors](#contributors)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction
 
@@ -59,29 +55,28 @@ To use the sorting algorithms implemented in this project, follow these steps:
 3. Compile the code:
 
    ```bash
-   gcc -o main *.c
+   gcc -o x-main *.c
    ```
 
 4. Run the executable:
 
    ```bash
-   ./main
+   ./x-main
    ```
 
    Follow the on-screen instructions to test different sorting algorithms and view their performance.
+
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements or additional sorting algorithms to implement, please open an issue or submit a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## Contributors
 
 - [Lesuuda Ljamani](https://github.com/Lesuuda)
 - [Lizzy Agada](https://github.com/LizzyAgada)
 
-## Contributing
-
-Contributions are welcome! If you have ideas for improvements or additional sorting algorithms to implement, please open an issue or submit a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use and modify the code as needed.
 
 Happy coding!
-```
