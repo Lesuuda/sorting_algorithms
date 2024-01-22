@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap_ints - Swap two ints in an array if one is greater than the other.
+ * swap - Swap two ints in an array if one is greater than the other.
  * @a: The first integer to swap.
  * @b: The second integer to swap.
  */
