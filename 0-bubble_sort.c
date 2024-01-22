@@ -1,11 +1,11 @@
 #include "sort.h"
-
 /**
  * swap - swaps two values if one is greater than the other
  * @a: pointer to the first number
  * @b: pointer to the other number
  * Return: always 0
  */
+
 void swap(int *a, int *b)
 {
 	int temp;
@@ -41,4 +41,3 @@ void bubble_sort(int *array, size_t size)
 			}
 		}
 	}
-}
