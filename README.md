@@ -73,7 +73,7 @@ Contributions are welcome! If you have ideas for improvements or additional sort
 ## Contributors
 
 - [Lesuuda Ljamani](https://github.com/Lesuuda)
-- [Lizzy Agada](https://github.com/LizzyAgada)
+- [Elizabeth Agada](https://github.com/ElizabethAgada)
 
 ## License
 
